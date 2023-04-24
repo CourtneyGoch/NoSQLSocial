@@ -21,10 +21,10 @@ An API for a social network web application where users can share their thoughts
 - Testing API POST and DELETE routes in Insomnia Core are able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
 ## Walkthrough Videos
-[User Routes](https://drive.google.com/file/d/1WMXQbCPAECIsU78gSpFk8IejF80_jtpW/view)  
-[Friend Routes](https://drive.google.com/file/d/1a2o-AOOmOIXz8dgTKsC1FvLIaNRoQJJf/view)  
-[Thought Routes](https://drive.google.com/file/d/17ocul_N5VOl4O70y8XEILtf8691lvxEj/view)  
-[Reaction Routes](https://drive.google.com/file/d/1gB0kILBgkD4XEpFXOeq6v5YhxP75W27d/view)  
+[User Routes](https://drive.google.com/file/d/1FFV_8ythM0f0Q7Nk5fezSXuMZLV9jEQG/view?usp=share_link)  
+[Friend Routes](https://drive.google.com/file/d/1sz9ARdIa2wTt-8KIO8d9rvTPQoxflQVt/view?usp=share_link)  
+[Thought Routes](https://drive.google.com/file/d/1B13tXJ7jpVYTGmFNyKOn5W-bK76IlTbD/view?usp=share_link)  
+[Reaction Routes](https://drive.google.com/file/d/1ieMErhhCKlr3kLduLcRxrAOAB7lyOF9I/view?usp=share_link)  
 
 ## Installation:  
 1. Download the repo files from the link below
